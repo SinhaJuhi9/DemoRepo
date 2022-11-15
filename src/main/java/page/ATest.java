@@ -4,9 +4,14 @@ import org.testng.annotations.Test;
 public class ATest {
 @Test
 	public  void main() {
-	System.out.println("page/ATest juhi A");
+	System.out.println("main page/ATest juhi A");
 
 	}
+public  void mains() {
+	System.out.println(" mains page/ATest juhi A");
+
+	}
+
 
 
 }
