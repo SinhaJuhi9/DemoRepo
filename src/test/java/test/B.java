@@ -7,5 +7,10 @@ public class B {
 	System.out.println("juhi B");
 
 	}
+public  void mainB() {
+	System.out.println("juhi B");
+	System.out.println("mainB");
+	System.out.println("mainB test");
 
+	}
 }
