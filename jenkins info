@@ -1,0 +1,11 @@
+Unlock Jenkins
+To ensure Jenkins is securely set up by the administrator, a password has been written to the log (not sure where to find it?) and this file on the server:
+
+C:\Users\GP\.jenkins\secrets\initialAdminPassword
+
+Please copy the password from either location and paste it below.
+
+Administrator password
+full name -Juhi Sinha
+user -Juhi
+pwd-Jasmine09
