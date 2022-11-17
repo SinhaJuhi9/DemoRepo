@@ -1,0 +1,9 @@
+<div class="row featured-boxes" style="margin-right: 30px;margin-left: 30px;" xpath="1"></div>
+<div class="col-md-3" xpath="2"></div>
+<div class="featured-box" style="height:750px;" xpath="3"></div>
+
+//*[text()='Enterprise Testing']//ancestor::div[1]----->driver.findElement(By.xpath("//body/div[4]/div[2]/div[1]"))
+//*[text()='Enterprise Testing']//ancestor::div[2]----->driver.findElement(By.xpath("//body/div[4]/div[2]"))
+//*[text()='Enterprise Testing']//ancestor::div[3]----->driver.findElement(By.xpath("//body/div[4]"))
+
+driver.findElement(By.xpath("//body/div[4]/div[2]/div[1]"))
